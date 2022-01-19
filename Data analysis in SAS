@@ -1,12 +1,10 @@
-
-
-
-
-
-
-
-
-
+# ***************** DATA ANALYSIS IN SAS **************************** ----------------------------
+# Article:      Occurrence of Meloidogyne hapla relative to nematode abundance and soil food web structure in soil groups of selected Michigan vegetable production fields
+# Authors:      Isaac LARTEY, Alexandra KRAVCHENKO, Terence MARSH and Haddish MELAKEBERHAN
+# Affiliation:  Michigan State University
+# Journal:      Nematology
+# Date:         2021
+# ******************************************************************** ----------------------------
 
 
 
@@ -169,3 +167,7 @@ colaxis LABEL = 'Structure Index (%)' grid
 LABELATTRS=(Color=Black Family='Times Roman'  Size=12 Weight=Normal)
 VALUEATTRS=(Color=Black Family='Times Roman' Size=10) VALUES = (0 TO 100 BY 50) display=(nolabel); 
 run;
+
+
+
+
